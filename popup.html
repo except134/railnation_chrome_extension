@@ -5,11 +5,12 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/datatables.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/i18n.js"></script>
         <script src="js/menu.js"></script>
         <script src="js/passengers.js"></script>
-        <script src="js/i18n.js"></script>
-        <script src ="js/datatables.min.js"></script>
+        <script src="js/goods.js"></script>
     </head>
     <body>
 
@@ -19,7 +20,7 @@
             <div class="container-fluid">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="#" class="i18n" id="menu_passengers"></a></li>
-                    <li class="hidden"><a href="#" class="i18n" id="menu_goods"></a></li>
+                    <li><a href="#" class="i18n" id="menu_goods"></a></li>
                     <li class="hidden"><a href="#" class="i18n" id="menu_rails"></a></li>
                     <li class="hidden"><a href="#" class="i18n" id="menu_cities"></a></li>
                     <li class="hidden"><a href="#" class="i18n" id="menu_workers"></a></li>
@@ -52,7 +53,9 @@
         <!-- Вагоны -->
 
         <div class="extension_part hidden" id="show_menu_goods">
-            <p>Раздел вещей</p>
+            <div id="goods_table">
+                <table id="goodsTable" class="table-striped table-hover table-condensed" width="100%"></table>
+            </div>
         </div>
 
         <!-- Рельсы -->

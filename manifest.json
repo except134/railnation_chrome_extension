@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Rail nation online game chrome extension",
+  "name": "__MSG_manifest_name__",
   "default_locale": "en",
-  "description": "This extension has some calculators and help information inside.",
+  "description": "__MSG_manifest_description__",
   "version": "1.0",
   "icons": {
       "16": "img/icon16.png",
@@ -20,13 +20,11 @@
         "48": "img/icon48.png",
         "128": "img/icon128.png"
     },
-    "default_title": "Rail Nation",
+    "default_title": "Rail Nation helper",
     "default_popup": "popup.html"
   },
   "permissions": [
     "activeTab",
-    "alarms",
-    "clipboardRead",
-    "clipboardWrite"
+    "alarms"
   ]
 }

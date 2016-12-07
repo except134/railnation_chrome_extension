@@ -25,6 +25,28 @@ $(document).ready(function () {
             searching: false,
             destroy: true,
             info: false,
+            language: {
+                "processing": chrome.i18n.getMessage("dataTables_translate_processing"),
+                "search": chrome.i18n.getMessage("dataTables_translate_search"),
+                "lengthMenu": chrome.i18n.getMessage("dataTables_translate_lengthMenu"),
+                "info": chrome.i18n.getMessage("dataTables_translate_info"),
+                "infoEmpty": chrome.i18n.getMessage("dataTables_translate_infoEmpty"),
+                "infoFiltered": chrome.i18n.getMessage("dataTables_translate_infoFiltered"),
+                "infoPostFix": chrome.i18n.getMessage("dataTables_translate_infoPostFix"),
+                "loadingRecords": chrome.i18n.getMessage("dataTables_translate_loadingRecords"),
+                "zeroRecords": chrome.i18n.getMessage("dataTables_translate_zeroRecords"),
+                "emptyTable": chrome.i18n.getMessage("dataTables_translate_emptyTable"),
+                "paginate": {
+                    "first": chrome.i18n.getMessage("dataTables_translate_first"),
+                    "previous": chrome.i18n.getMessage("dataTables_translate_previous"),
+                    "next": chrome.i18n.getMessage("dataTables_translate_next"),
+                    "last": chrome.i18n.getMessage("dataTables_translate_last")
+                },
+                "aria": {
+                    "sortAscending": chrome.i18n.getMessage("dataTables_translate_sortAscending"),
+                    "sortDescending": chrome.i18n.getMessage("dataTables_translate_sortDescending")
+                }
+            },
             columns: [
                 { title: chrome.i18n.getMessage("delivery_speed") },
                 { title: chrome.i18n.getMessage("time_left") },

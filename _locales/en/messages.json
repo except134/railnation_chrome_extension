@@ -1,0 +1,66 @@
+{
+  "languageRussian": {
+    "message": "Russian",
+    "description": "Language selector"
+  },
+  "languageEnglish": {
+    "message": "English",
+    "description": "Language selector"
+  },
+  "languageSelector": {
+    "message": "Language",
+    "description": "Language selector menu item"
+  },
+  "menu_passengers": {
+    "message": "Passengers",
+    "description": ""
+  },
+  "menu_goods": {
+    "message": "Goods",
+    "description": ""
+  },
+  "menu_rails": {
+    "message": "Rails",
+    "description": ""
+  },
+  "menu_cities": {
+    "message": "Cities",
+    "description": ""
+  },
+  "menu_workers": {
+    "message": "Workers",
+    "description": ""
+  },
+  "menu_about": {
+    "message": "About",
+    "description": ""
+  },
+  "current_passengers": {
+    "message": "Current passengers",
+    "description": ""
+  },
+  "required_passengers": {
+    "message": "Required passengers",
+    "description": ""
+  },
+  "delivery_speed": {
+    "message": "Delivery speed",
+    "description": ""
+  },
+  "time_left": {
+    "message": "Time left",
+    "description": ""
+  },
+  "arrival_time": {
+    "message": "Expected arrival time",
+    "description": ""
+  },
+  "time_hours": {
+    "message": "hours",
+    "description": ""
+  },
+  "time_minutes": {
+    "message": "minutes",
+    "description": ""
+  }
+}

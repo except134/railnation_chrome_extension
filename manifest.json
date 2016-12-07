@@ -2,6 +2,7 @@
   "manifest_version": 2,
 
   "name": "Rail nation online game chrome extension",
+  "default_locale": "en",
   "description": "This extension has some calculators and help information inside.",
   "version": "1.0",
   "icons": {

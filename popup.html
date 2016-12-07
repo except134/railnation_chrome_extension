@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/menu.js"></script>
+        <script src="js/passengers.js"></script>
+        <script src="js/i18n.js"></script>
+        <script src ="js/datatables.min.js"></script>
+    </head>
+    <body>
+
+        <!-- Навигация -->
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#" class="i18n" id="menu_passengers"></a></li>
+                    <li class="hidden"><a href="#" class="i18n" id="menu_goods"></a></li>
+                    <li class="hidden"><a href="#" class="i18n" id="menu_rails"></a></li>
+                    <li class="hidden"><a href="#" class="i18n" id="menu_cities"></a></li>
+                    <li class="hidden"><a href="#" class="i18n" id="menu_workers"></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#" class="i18n" id="menu_about"></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Пассажиры -->
+
+        <div class="extension_part" id="show_menu_passengers">
+            <form class="form-inline">
+                <div class="form-group">
+                    <label class="i18n" id="current_passengers" for="passengers_current"></label>
+                    <input type="number" class="form-control" id="passengers_current" value="2500000">
+                </div>
+                <div class="form-group">
+                    <label class="i18n" id="required_passengers" for="passengers_required"></label>
+                    <input type="number" class="form-control" id="passengers_required" value="5000000">
+                </div>
+            </form>
+            <p></p>
+            <div id="passengers_table">
+                <table id="passengersTable" class="table-striped table-hover table-condensed" width="100%"></table>
+            </div>
+        </div>
+
+        <!-- Вагоны -->
+
+        <div class="extension_part hidden" id="show_menu_goods">
+            <p>Раздел вещей</p>
+        </div>
+
+        <!-- Рельсы -->
+
+        <div class="extension_part hidden" id="show_menu_rails">
+            <p>Раздел рельс</p>
+        </div>
+        <!-- Города -->
+
+        <div class="extension_part hidden" id="show_menu_cities">
+            <p>Раздел городов</p>
+        </div>
+
+        <!-- Рабочие -->
+
+        <div class="extension_part hidden" id="show_menu_workers">
+            <p>Раздел рабочих</p>
+        </div>
+
+        <!-- Об авторе -->
+
+        <div class="extension_part hidden" id="show_menu_about">
+            <p>Раздел об авторе</p>
+        </div>
+    </body>
+</html>

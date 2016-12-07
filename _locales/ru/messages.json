@@ -4,299 +4,299 @@
     "description": ""
   },
   "manifest_description": {
-    "message": "This extension has some calculators and help information inside.",
+    "message": "Немного справочной информации. Немного калькуляторов.",
     "description": ""
   },
   "languageRussian": {
-    "message": "Russian",
-    "description": "Language selector"
+    "message": "Русский",
+    "description": ""
   },
   "languageEnglish": {
-    "message": "English",
-    "description": "Language selector"
+    "message": "Английский",
+    "description": ""
   },
   "languageSelector": {
-    "message": "Language",
-    "description": "Language selector menu item"
+    "message": "Язык",
+    "description": ""
   },
   "menu_passengers": {
-    "message": "Passengers",
+    "message": "Пассажиры",
     "description": ""
   },
   "menu_goods": {
-    "message": "Wagons",
+    "message": "Вагоны",
     "description": ""
   },
   "menu_rails": {
-    "message": "Rails",
+    "message": "Рельсы",
     "description": ""
   },
   "menu_cities": {
-    "message": "Cities",
+    "message": "Города",
     "description": ""
   },
   "menu_workers": {
-    "message": "Workers",
+    "message": "Рабочие",
     "description": ""
   },
   "menu_about": {
-    "message": "About",
+    "message": "О расширении",
     "description": ""
   },
   "current_passengers": {
-    "message": "Current passengers",
+    "message": "Пассажиров доставлено",
     "description": ""
   },
   "required_passengers": {
-    "message": "Required passengers",
+    "message": "Пассажиров требуется",
     "description": ""
   },
   "delivery_speed": {
-    "message": "Delivery speed",
+    "message": "Скорость доставки",
     "description": ""
   },
   "time_left": {
-    "message": "Time left",
+    "message": "Осталось ждать",
     "description": ""
   },
   "arrival_time": {
-    "message": "Expected arrival time",
+    "message": "Ожидаемое время доставки",
     "description": ""
   },
   "time_hours": {
-    "message": "hours",
+    "message": "час",
     "description": ""
   },
   "time_minutes": {
-    "message": "minutes",
+    "message": "минут",
     "description": ""
   },
   "goods_Wood": {
-    "message": "Wood",
+    "message": "Дерево",
     "description": ""
   },
   "goods_Grain": {
-    "message": "Grain",
+    "message": "Пшеница",
     "description": ""
   },
   "goods_Coal": {
-    "message": "Coal",
+    "message": "Уголь",
     "description": ""
   },
   "goods_Iron_Ore": {
-    "message": "Iron Ore",
+    "message": "Железная руда",
     "description": ""
   },
   "goods_Boards": {
-    "message": "Boards",
+    "message": "Доски",
     "description": ""
   },
   "goods_Thread": {
-    "message": "Thread",
+    "message": "Нить",
     "description": ""
   },
   "goods_Cotton": {
-    "message": "Cotton",
+    "message": "Хлопок",
     "description": ""
   },
   "goods_Cattle": {
-    "message": "Cattle",
+    "message": "Скот",
     "description": ""
   },
   "goods_Leather": {
-    "message": "Leather",
+    "message": "Кожа",
     "description": ""
   },
   "goods_Iron": {
-    "message": "Iron",
+    "message": "Железо",
     "description": ""
   },
   "goods_Flour": {
-    "message": "Flour",
+    "message": "Мука",
     "description": ""
   },
   "goods_Meat": {
-    "message": "Meat",
+    "message": "Колбаса",
     "description": ""
   },
   "goods_Paper": {
-    "message": "Paper",
+    "message": "Бумага",
     "description": ""
   },
   "goods_Pastries": {
-    "message": "Pastries",
+    "message": "Хлеб",
     "description": ""
   },
   "goods_Textiles": {
-    "message": "Textiles",
+    "message": "Текстиль",
     "description": ""
   },
   "goods_Hardware": {
-    "message": "Hardware",
+    "message": "Инструменты",
     "description": ""
   },
   "goods_Copper_Ore": {
-    "message": "Copper Ore",
+    "message": "Медная руда",
     "description": ""
   },
   "goods_Quartz": {
-    "message": "Quartz",
+    "message": "Кварц",
     "description": ""
   },
   "goods_Copper": {
-    "message": "Copper",
+    "message": "Медь",
     "description": ""
   },
   "goods_Steel": {
-    "message": "Steel",
+    "message": "Сталь",
     "description": ""
   },
   "goods_Shoes": {
-    "message": "Shoes",
+    "message": "Обувь",
     "description": ""
   },
   "goods_Packaging": {
-    "message": "Packaging",
+    "message": "Упаковка",
     "description": ""
   },
   "goods_Wires": {
-    "message": "Wires",
+    "message": "Проволока",
     "description": ""
   },
   "goods_Pipes": {
-    "message": "Pipes",
+    "message": "Трубы",
     "description": ""
   },
   "goods_Glassware": {
-    "message": "Glassware",
+    "message": "Стекло",
     "description": ""
   },
   "goods_Windows": {
-    "message": "Windows",
+    "message": "Окна",
     "description": ""
   },
   "goods_Sheet_Metal": {
-    "message": "Sheet Metal",
+    "message": "Листовой металл",
     "description": ""
   },
   "goods_Crude_Oil": {
-    "message": "Crude Oil",
+    "message": "Нефть",
     "description": ""
   },
   "goods_Lamps": {
-    "message": "Lamps",
+    "message": "Лампы",
     "description": ""
   },
   "goods_Food": {
-    "message": "Food",
+    "message": "Еда",
     "description": ""
   },
   "goods_Clothing": {
-    "message": "Clothing",
+    "message": "Одежда",
     "description": ""
   },
   "goods_Stainless_Steel": {
-    "message": "Stainless Steel",
+    "message": "Нержавеющая сталь",
     "description": ""
   },
   "goods_Chemicals": {
-    "message": "Chemicals",
+    "message": "Химикаты",
     "description": ""
   },
   "goods_Silicon": {
-    "message": "Silicon",
+    "message": "Силикаты",
     "description": ""
   },
   "goods_Aluminium": {
-    "message": "Aluminium",
+    "message": "Алюминий",
     "description": ""
   },
   "goods_Bauxite": {
-    "message": "Bauxite",
+    "message": "Бокситы",
     "description": ""
   },
   "goods_Plastics": {
-    "message": "Plastics",
+    "message": "Пластик",
     "description": ""
   },
   "goods_Steel_Beams": {
-    "message": "Steel Beams",
+    "message": "Стальные балки",
     "description": ""
   },
   "goods_Pottery": {
-    "message": "Pottery",
+    "message": "Керамика",
     "description": ""
   },
   "goods_Petrol": {
-    "message": "Petrol",
+    "message": "Бензин",
     "description": ""
   },
   "goods_Machinery": {
-    "message": "Machinery",
+    "message": "Двигатели",
     "description": ""
   },
   "goods_Cars": {
-    "message": "Cars",
+    "message": "Автомобили",
     "description": ""
   },
   "goods_Household_Goods": {
-    "message": "Household Goods",
+    "message": "Хоз. товары",
     "description": ""
   },
   "goods_Electronics": {
-    "message": "Electronics",
+    "message": "Электроника",
     "description": ""
   },
   "goods_Toys": {
-    "message": "Toys",
+    "message": "Игрушки",
     "description": ""
   },
   "goods_Sports_Goods": {
-    "message": "Sports Goods",
+    "message": "Спортивные товары",
     "description": ""
   },
   "goods_Toiletries": {
-    "message": "Toiletries",
+    "message": "Сантехника",
     "description": ""
   },
   "goods_Pharmaceuticals": {
-    "message": "Pharmaceuticals",
+    "message": "Лекарства",
     "description": ""
   },
   "Good": {
-    "message": "Good",
+    "message": "Название",
     "description": ""
   },
   "Era": {
-    "message": "Era",
+    "message": "Эпоха",
     "description": ""
   },
   "Waggon_Cost": {
-    "message": "Waggon Cost",
+    "message": "Цена вагона",
     "description": ""
   },
   "dataTables_translate_processing": {
-    "message": "Processing...",
+    "message": "Подождите...",
     "description": ""
   },
   "dataTables_translate_search": {
-    "message": "Search:",
+    "message": "Поиск:",
     "description": ""
   },
   "dataTables_translate_lengthMenu": {
-    "message": "Show _MENU_ entries",
+    "message": "Показать _MENU_ записей",
     "description": ""
   },
   "dataTables_translate_info": {
-    "message": "Showing _START_ to _END_ of _TOTAL_ entries",
+    "message": "Записи с _START_ до _END_ из _TOTAL_ записей",
     "description": ""
   },
   "dataTables_translate_infoEmpty": {
-    "message": "Showing 0 to 0 of 0 entries",
+    "message": "Записи с 0 до 0 из 0 записей",
     "description": ""
   },
   "dataTables_translate_infoFiltered": {
-    "message": "(filtered from _MAX_ total entries)",
+    "message": "(отфильтровано из _MAX_ записей)",
     "description": ""
   },
   "dataTables_translate_infoPostFix": {
@@ -304,39 +304,39 @@
     "description": ""
   },
   "dataTables_translate_loadingRecords": {
-    "message": "Loading...",
+    "message": "Загрузка записей...",
     "description": ""
   },
   "dataTables_translate_zeroRecords": {
-    "message": "No matching records found",
+    "message": "Записи отсутствуют.",
     "description": ""
   },
   "dataTables_translate_emptyTable": {
-    "message": "No data available in table",
+    "message": "В таблице отсутствуют данные",
     "description": ""
   },
   "dataTables_translate_first": {
-    "message": "First",
+    "message": "Первая",
     "description": ""
   },
   "dataTables_translate_previous": {
-    "message": "Previous",
+    "message": "Предыдущая",
     "description": ""
   },
   "dataTables_translate_next": {
-    "message": "Next",
+    "message": "Следующая",
     "description": ""
   },
   "dataTables_translate_last": {
-    "message": "Last",
+    "message": "Последняя",
     "description": ""
   },
   "dataTables_translate_sortAscending": {
-    "message": ": activate to sort column ascending",
+    "message": ": активировать для сортировки столбца по возрастанию",
     "description": ""
   },
   "dataTables_translate_sortDescending": {
-    "message": ": activate to sort column descending",
-    "description": ""
+    "message": "",
+    "description": ": активировать для сортировки столбца по убыванию"
   }
 }
